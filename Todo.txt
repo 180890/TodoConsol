@@ -1,0 +1,3 @@
+4-sell water-low-pending
+2-shop primo-medium-pending
+1-sell primo-high-pending
